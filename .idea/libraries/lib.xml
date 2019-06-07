@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vini-open-bank-api/lib/RmiJdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vini-open-bank-api/lib/csvdriver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vini-open-bank-api/lib/log4j-1.2.17-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

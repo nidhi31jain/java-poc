@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloJava/HelloJava.iml" filepath="$PROJECT_DIR$/HelloJava/HelloJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculate-area/calculate-area.iml" filepath="$PROJECT_DIR$/calculate-area/calculate-area.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic-interview/java-basic-interview.iml" filepath="$PROJECT_DIR$/java-basic-interview/java-basic-interview.iml" />
       <module fileurl="file://$PROJECT_DIR$/vini-open-bank-api/vini-open-bank-api.iml" filepath="$PROJECT_DIR$/vini-open-bank-api/vini-open-bank-api.iml" />
     </modules>
